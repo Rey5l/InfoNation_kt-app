@@ -10,9 +10,9 @@ InfoNation - это Android-приложение, которое предост�
 
 ## Скриншоты
 
-![Скриншот 1](app/screenshots/screenshot1.png)
-![Скриншот 2](app/screenshots/screenshot2.png)
-![Скриншот 3](app/screenshots/screenshot3.png)
+![Скриншот 1](app/screenshots/screenshot1.jpg) 
+![Скриншот 2](app/screenshots/screenshot2.jpg) 
+![Скриншот 3](app/screenshots/screenshot3.jpg)
 
 ## Установка
 
